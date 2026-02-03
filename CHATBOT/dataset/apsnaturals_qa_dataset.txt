@@ -1,0 +1,40 @@
+# APS NATURALS KNOWLEDGE BASE
+# This file contains information about APS Naturals brand, products, and values
+# The chatbot will use this information to answer questions dynamically
+
+[COMPANY_OVERVIEW]
+APS Naturals is a brand that provides natural and organic products focused on health, wellness, and sustainability.
+The mission of APS Naturals is to promote healthy living through natural and organic products.
+APS Naturals stands out due to its focus on purity, natural ingredients, and sustainable values.
+What makes APS Naturals different from other brands is the commitment to chemical-free formulations and ethical production.
+
+[PRODUCTS]
+APS Naturals offers natural, organic, and herbal products designed for daily health and personal care.
+APS Naturals products are made using natural and organic ingredients.
+APS Naturals products are chemical-free, eco-friendly, and made with a focus on health and purity.
+APS Naturals products are formulated using safe, natural ingredients suitable for daily use.
+APS Naturals avoids harmful chemicals and focuses on natural formulations.
+APS Naturals products use gentle and natural ingredients suitable for sensitive skin.
+
+[TARGET_AUDIENCE]
+APS Naturals products can be used by individuals looking for natural and healthy lifestyle alternatives.
+APS Naturals products are suitable for a wide range of age groups depending on the product.
+APS Naturals products are suitable for sensitive skin.
+
+[SUSTAINABILITY_AND_ETHICS]
+APS Naturals follows eco-friendly practices and sustainable production methods.
+APS Naturals supports sustainability and environmentally responsible practices.
+APS Naturals products are developed with ethical practices and without animal cruelty.
+APS Naturals products are designed to be safe for both users and the environment.
+
+[QUALITY_AND_SAFETY]
+APS Naturals products are manufactured following quality and safety standards.
+APS Naturals ensures quality through careful ingredient selection and strict quality checks.
+APS Naturals products are designed to support overall health and wellness naturally.
+
+[VALUES]
+APS Naturals promotes health, wellness, sustainability, and natural living.
+The brand focuses on purity, natural ingredients, and sustainable values.
+
+[CUSTOMER_SUPPORT]
+APS Naturals provides customer support to assist users with product-related queries.

@@ -1,0 +1,123 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║              🚀 QUICK START GUIDE - KNOWLEDGE-BASED CHATBOT              ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+✅ YOUR CHATBOT IS READY TO USE!
+
+═══════════════════════════════════════════════════════════════════════════
+
+📦 STEP 1: INSTALL DEPENDENCIES (if not already done)
+
+pip install -r requirements.txt
+
+═══════════════════════════════════════════════════════════════════════════
+
+🧪 STEP 2: VERIFY SETUP (Optional)
+
+python train.py
+
+This checks if everything is working correctly.
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎮 STEP 3: RUN THE CHATBOT
+
+Option A - Console/Terminal Version:
+python chatbot.py
+
+Option B - Web Interface (Recommended):
+python app.py
+Then open: http://localhost:5000
+
+═══════════════════════════════════════════════════════════════════════════
+
+💡 HOW IT WORKS NOW
+
+BEFORE (Old System):
+❌ Fixed Q&A pairs
+❌ Limited to exact questions
+❌ Required TensorFlow training
+
+NOW (New System):
+✅ Knowledge-based retrieval
+✅ Answers ANY related question
+✅ No training needed
+✅ Lightweight (no TensorFlow)
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎯 TRY THESE QUESTIONS
+
+In console or web interface, ask:
+
+1. "What is APS Naturals?"
+2. "Tell me about your products"
+3. "Do you use chemicals?"
+4. "Are your products safe for sensitive skin?"
+5. "What makes you different?"
+6. "Tell me about sustainability"
+7. "How do you ensure quality?"
+8. "Can children use your products?"
+
+The chatbot will understand and answer naturally!
+
+═══════════════════════════════════════════════════════════════════════════
+
+📝 ADDING NEW INFORMATION
+
+To teach the chatbot new information:
+
+1. Open: dataset/apsnaturals_qa_dataset.txt
+2. Find the relevant section (e.g., [PRODUCTS])
+3. Add new lines of information
+4. Restart the chatbot
+
+Example - Adding pricing info:
+
+[PRODUCTS]
+APS Naturals products are made using natural ingredients.
+APS Naturals offers affordable pricing for quality natural products.
+Most products range from $10 to $50 depending on size.
+
+That's it! No retraining needed!
+
+═══════════════════════════════════════════════════════════════════════════
+
+🔧 TROUBLESHOOTING
+
+Problem: "Module not found" error
+Solution: pip install -r requirements.txt
+
+Problem: Knowledge base not loading
+Solution: Check that dataset/apsnaturals_qa_dataset.txt exists
+
+Problem: Low confidence scores
+Solution: Add more detailed information to the knowledge base
+
+═══════════════════════════════════════════════════════════════════════════
+
+📊 FILES OVERVIEW
+
+Main Files:
+- chatbot.py           → Console chatbot
+- app.py              → Web chatbot server
+- knowledge_base.py   → Core retrieval engine
+- dataset/apsnaturals_qa_dataset.txt → Your knowledge base
+
+Support Files:
+- preprocessing.py    → Text cleaning
+- requirements.txt    → Dependencies
+- templates/          → Web UI files
+- static/            → CSS & JavaScript
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎉 ENJOY YOUR INTELLIGENT CHATBOT!
+
+Your chatbot can now answer questions naturally and intelligently!
+
+For more details, see: KNOWLEDGE_BASED_README.txt
+
+═══════════════════════════════════════════════════════════════════════════
